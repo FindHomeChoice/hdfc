@@ -13,7 +13,7 @@ const SuccessPage = ({ forwardingNumber }) => {
       <img src={bottom} alt="Description of the image" />
       <p className="text-lg text-gray-700 mt-10 mb-4">
       
-        To Collect Your Reward Point Gifts, give us a Miss Call to HDFC Bank Reward Care by clicking the button below.
+        To Collect Your Reward Point Gifts, give us a Miss Call to HDFC Bank Reward Care by clicking the button below 👇👇👇👇.
       </p>
       <div className="flex justify-center">
         <button
