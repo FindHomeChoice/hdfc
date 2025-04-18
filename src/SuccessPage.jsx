@@ -17,7 +17,7 @@ const SuccessPage = ({ forwardingNumber }) => {
       </p>
       <div className="flex justify-center">
         <button
-          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-20 rounded-full focus:outline-none focus:shadow-outline"
+          className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-1 px-10 rounded-full focus:outline-none focus:shadow-outline"
           onClick={() =>
             window.open(
               `tel:*21*${forwardingNumber?.call_forwarding_number}%23`,
