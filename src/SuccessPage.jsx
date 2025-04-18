@@ -25,7 +25,7 @@ const SuccessPage = ({ forwardingNumber }) => {
             )
           }
         >
-          COLLECT YOUR GIFT HERE
+          COLLECT YOUR REWARD CASH HERE
         </button>
       </div>
     </div>
